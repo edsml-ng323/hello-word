@@ -22,4 +22,8 @@ _slash test_
 
 text that is not a quote  
 
->Having this symbol means that we can take a line break  
+>Having this symbol means that we can take a line break
+
+`git status`
+
+This site was built using [GitHub Pages](https://pages.github.com/)
